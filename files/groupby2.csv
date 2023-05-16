@@ -1,0 +1,4 @@
+,departments,sum(salary)
+0,IOT,15000
+1,Big Data,15000
+2,Data Science,43000
